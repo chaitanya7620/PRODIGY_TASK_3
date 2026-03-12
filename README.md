@@ -22,11 +22,11 @@ JavaScript – Game logic and AI
 # 📁 Project Files
 📦 Tic-Tac-Toe
 
-┣ 📜 index.html → Game layout
+┣ 📜 index3.html → Game layout
 
-┣ 📜 style.css → Game styling
+┣ 📜 style3.css → Game styling
 
-┣ 📜 script.js → Game logic & AI
+┣ 📜 script3.js → Game logic & AI
 
 ┗ 📜 README.md
 
